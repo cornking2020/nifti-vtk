@@ -1,3 +1,8 @@
+# IDE
+.vscode
+.vs
+.idea
+
 # Compiled Object files
 *.slo
 *.lo
@@ -16,4 +21,7 @@
 *.user
 
 # My builds
-build*
+build
+out
+*.db
+vcpkg

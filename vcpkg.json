@@ -1,0 +1,11 @@
+{
+  "$schema": "https://raw.githubusercontent.com/microsoft/vcpkg-tool/main/docs/vcpkg-schema-definitions.schema.json",
+  "name": "nifti-vtk",
+  "version-string": "0.0.1",
+  "license": "MIT",
+  "dependencies": [
+    "dcmtk",
+    "vtk",
+    "itk"
+  ]
+}
